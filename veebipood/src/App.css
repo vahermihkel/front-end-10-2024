@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+.nupp {
+  color: brown;
+}
+
+.nupp:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.summa, .summa-valitud {
+  font-size: 20px;
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.summa-valitud {
+  color: rgb(227 6 140);
+  border-color: rgb(227 6 140); 
+}
+
+.linn-valitud {
+  text-decoration: underline;
+}
+
+table {
+  margin: auto;
+}
+
+th, td {
+  border: 1px solid black;
+}
+
+.pilt {
+  width: 50px;
+}
+
+.pilt.mitteaktiivne {
+  filter: grayscale(100%);
+  opacity: 50%;
+}
+
+.gallery, .gallery img {
+  width: 500px;
+  height: 200px;
+  margin: auto;
+}

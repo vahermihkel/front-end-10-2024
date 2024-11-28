@@ -1,0 +1,10 @@
+[
+  {"nimi": "Volvo", "hind": 25000, "aktiivne": true, "pilt": "https://www.linearity.io/blog/content/images/2023/06/how-to-create-a-car-NewBlogCover.png"},
+  {"nimi": "Audi", "hind": 35000, "aktiivne": true, "pilt": "https://www.linearity.io/blog/content/images/2023/06/how-to-create-a-car-NewBlogCover.png"},
+  {"nimi": "Nobe", "hind": 20000, "aktiivne": true, "pilt": "https://www.linearity.io/blog/content/images/2023/06/how-to-create-a-car-NewBlogCover.png"},
+  {"nimi": "BMW", "hind": 40000, "aktiivne": true, "pilt": "https://www.linearity.io/blog/content/images/2023/06/how-to-create-a-car-NewBlogCover.png"},
+  {"nimi": "Tesla", "hind": 85000, "aktiivne": false, "pilt": "https://www.linearity.io/blog/content/images/2023/06/how-to-create-a-car-NewBlogCover.png"},
+  {"nimi": "Nissan", "hind": 15000, "aktiivne": true, "pilt": "https://www.linearity.io/blog/content/images/2023/06/how-to-create-a-car-NewBlogCover.png"},
+  {"nimi": "Toyota", "hind": 55000, "aktiivne": true, "pilt": "https://www.linearity.io/blog/content/images/2023/06/how-to-create-a-car-NewBlogCover.png"},
+  {"nimi": "Bentley", "hind": 95000, "aktiivne": false, "pilt": "https://www.linearity.io/blog/content/images/2023/06/how-to-create-a-car-NewBlogCover.png"}
+]

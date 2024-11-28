@@ -1,0 +1,12 @@
+{
+  "nav": {
+    "contact": "Contact with us",
+    "shops": "Our shops",
+    "cart": "Cart"
+  },
+  "toast": {
+    "added": "Added ",
+    "already-in-cart": "Product is already in cart"
+  },
+  "loading": "Loading..."
+}

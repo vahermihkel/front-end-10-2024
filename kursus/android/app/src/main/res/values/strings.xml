@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">webshop</string>
+    <string name="title_activity_main">webshop</string>
+    <string name="package_name">ee.mihkel.webshop</string>
+    <string name="custom_url_scheme">ee.mihkel.webshop</string>
+</resources>

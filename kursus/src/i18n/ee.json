@@ -1,0 +1,12 @@
+{
+  "nav": {
+    "contact": "Kontakteeru meiega",
+    "shops": "Meie poed",
+    "cart": "Ostukorv"
+  },
+  "toast": {
+    "added": "Lisatud ",
+    "already-in-cart": "Toode on juba ostukorvis"
+  },
+  "loading": "Laeb..."
+}
